@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1060672472195",
+    "project_id": "password-manager-b1077",
+    "storage_bucket": "password-manager-b1077.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060672472195:android:97591be18fff9e7451c7b6",
+        "android_client_info": {
+          "package_name": "edu.mercer.muse.firebasepasswordmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060672472195-ehtj0310mv87iu57krknnsi5kqg41jk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOUuE6hKr7DlFyMWUxbeVr1hBqZLfVJkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060672472195-ehtj0310mv87iu57krknnsi5kqg41jk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
